@@ -49,6 +49,16 @@ Meus estudos e projetos estão voltados para:
 - Construir projetos pessoais para consolidar o aprendizado.
 
 ---
+## Consistência nas contribuições
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=jonathanjrldcp-eng&locale=pt_BR&hide_border=true&background=0D1117&stroke=334155&ring=94A3B8&fire=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8"
+    alt="Sequência atual, maior sequência e total de contribuições no GitHub"
+  />
+</div>
+
+---
 ## Histórico de contribuições
 
 <div align="center">
