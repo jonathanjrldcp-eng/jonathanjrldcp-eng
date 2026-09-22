@@ -3,10 +3,10 @@
   <h1>Estudante de Engenharia de Software</h1>
   <p>Desenvolvimento de software</p>
 
-  <a href="www.linkedin.com/in/jonathan-roberto-lopes-279428151/">
+  <a href="https://www.linkedin.com/in/jonathan-roberto-lopes-279428151/">
     <img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="mailto:jonathan.jrl.dcp@gmail.com">
+  <a href="mailto: jonathan.jrl.dcp@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-334155?style=flat-square" alt="E-mail" />
   </a>
 
@@ -82,4 +82,4 @@ Meus estudos e projetos estão voltados para:
 ## Contato
 
 **E-mail:** [jonathan.jrl.dcp@gmail.com](mailto:jonathan.jrl.dcp@gmail.com)  
-**LinkedIn:** [Jonathan Roberto Lopes](www.linkedin.com/in/jonathan-roberto-lopes-279428151/)
+**LinkedIn:** [Jonathan Roberto Lopes](https://www.linkedin.com/in/jonathan-roberto-lopes-279428151/)
